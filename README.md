@@ -1,45 +1,23 @@
-### Hi there 👋
+<h2> Olá mundo</h2>
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
-    integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+<p>
+Me chamo Paulo Henrique, atualmente tenho 17 anos e sou um amante da tecnologia.
+</p>
 
-
-<div class="container">
-    <div class="row">
-
-        <div class="col-12 mt-3 mb-3">
-            <h2>Como usar</h2>
-            <div class="list-group">
-
-                <button type="button" class="list-group-item list-group-item-action">
-                    Rota de pesquisa: <strong class="text-info">/rastreio/tracking-code</strong>
-                </button>
-
-                <button type="button" class="list-group-item list-group-item-action">
-                    Subindo servidor PHP: <strong class="text-info">php -S localhost:8080 -t public</strong>
-                </button>
-
-                <button type="button" class="list-group-item list-group-item-action">
-                    Url completa: <strong class="text-info">http://localhost:8080/rastreio/NX343732536BR</strong>
-                </button>
-
-            </div>
-        </div>
-
-    </div>
+<h2>Meus conhecimentos</h2>
+<div class="list-group">
+    <ul>
+        <li><strong>Inglês - Básico </strong></li>
+        <li><strong>HTML5 & CSS3 </strong></li>
+        <li><strong>MySQL - Básico</strong></li>
+        <li><strong>JavaScript - Intermediário</strong></li>
+        <li><strong>PHP</strong></li>
+        <li><strong>PHP Orientado a Objetos</strong></li>
+        <li><strong>PHP & PDO</strong></li>
+        <li><strong>PHP padrão MVC</strong></li>
+        <li><strong>PHP Symfony (Criação de APIs REST)</strong></li>
+        <li><strong>PHP Web Scraping</strong></li>
+    </ul>
+   
 </div>
-
-<!--
-**Paulo3678/Paulo3678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2><a href="https://paulo3678.github.io/Meu_Site/">Link do meu site </a></h2>
