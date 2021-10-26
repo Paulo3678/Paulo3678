@@ -7,7 +7,7 @@ Me chamo Paulo Henrique, atualmente tenho 17 anos e sou um amante da tecnologia.
 <h2>Meus conhecimentos</h2>
 <div class="list-group">
     <ul>
-        <li><strong>Inglês - Básico </strong></li>
+        <li><strong>Inglês - Intermediário </strong></li>
         <li><strong>HTML5 & CSS3 </strong></li>
         <li><strong>MySQL - Básico</strong></li>
         <li><strong>JavaScript - Intermediário</strong></li>
