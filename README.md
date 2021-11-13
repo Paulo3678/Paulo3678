@@ -17,6 +17,7 @@ Me chamo Paulo Henrique, atualmente tenho 17 anos e sou um amante da tecnologia.
         <li><strong>PHP padrão MVC</strong></li>
         <li><strong>PHP Symfony (Criação de APIs REST)</strong></li>
         <li><strong>PHP Web Scraping</strong></li>
+        <li><strong>PHP Laravel</strong></li>
     </ul>
    
 </div>
