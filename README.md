@@ -1,7 +1,7 @@
 <h2> Olá mundo</h2>
 
 <p>
-Me chamo Paulo Henrique, atualmente tenho 17 anos e sou um amante da tecnologia.
+Me chamo Paulo Henrique, e seja bem vindo ao meu perfil.
 </p>
 
 <h2>Meus conhecimentos</h2>
@@ -18,6 +18,7 @@ Me chamo Paulo Henrique, atualmente tenho 17 anos e sou um amante da tecnologia.
         <li><strong>PHP Symfony (Criação de APIs REST)</strong></li>
         <li><strong>PHP Web Scraping</strong></li>
         <li><strong>PHP Laravel</strong></li>
+        <li><strong>PHP CodeIginiter 3</strong></li>
     </ul>
    
 </div>
