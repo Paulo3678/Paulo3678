@@ -11,6 +11,7 @@ Me chamo Paulo Henrique, e seja bem vindo ao meu perfil.
         <li><strong>HTML5 & CSS3 </strong></li>
         <li><strong>MySQL - Básico</strong></li>
         <li><strong>JavaScript - Intermediário</strong></li>
+        <li><strong>Jquery</strong></li>
         <li><strong>PHP</strong></li>
         <li><strong>PHP Orientado a Objetos</strong></li>
         <li><strong>PHP & PDO</strong></li>
