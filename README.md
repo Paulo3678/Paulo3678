@@ -25,5 +25,5 @@
 
 <hr>
 
-## <a href="https://paulo3678.github.io/Meu_Site/">☁️ Meu Site</a> 
-<!-- <h2><a href="https://paulo3678.github.io/Meu_Site/">Link do meu site </a></h2> -->
+### <a href="https://github.com/Paulo3678/Ubuntu_Apps">💻 Apps para o seu Ubuntu</a> 
+### <a href="https://github.com/Paulo3678/Ubuntu_Config">💻 PHP, Apache, MySQL e Virtual Hosts no seu Ubuntu</a>
