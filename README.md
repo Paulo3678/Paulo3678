@@ -39,5 +39,5 @@
 
 <hr>
 
-### <a href="https://github.com/Paulo3678/Ubuntu_Apps">💻 Apps para o seu Ubuntu</a> 
-### <a href="https://github.com/Paulo3678/Ubuntu_Config">💻 PHP, Apache, MySQL e Virtual Hosts no seu Ubuntu</a>
+### <a href="https://github.com/Paulo3678/Ubuntu_Apps">💻 Apps - Ubuntu tutorial</a> 
+### <a href="https://github.com/Paulo3678/Ubuntu_Config">💻 PHP, Apache, MySQL and Virtual Hosts - Ubuntu tutorial</a>
