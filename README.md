@@ -13,6 +13,19 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/paulo-henrique-almeida-silva-9234171b3/) [![Gmail Badge](https://img.shields.io/badge/-pauloecomercial367@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pauloecomercial367@gmail.com)](mailto:caio1525pereira@gmail.com)
 
+<hr>
+
+## 📊 GitHub Stats
+
+<div align="center">
+    <br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo3678&layout=compact&langs_count=7&theme=monokai"/>
+    <br><br>
+
+<a href="https://github.com/Paulo3678">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo3678&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+</div>
+<br>
 
 <hr>  
 
