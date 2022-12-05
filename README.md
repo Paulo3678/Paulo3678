@@ -22,8 +22,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo3678&layout=compact&langs_count=7&theme=monokai"/>
     <br><br>
 
-<a href="https://github.com/Paulo3678">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulo3678&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=paulo3678&theme=monokai&hide_border=false)<br/>
 </div>
 <br>
 
