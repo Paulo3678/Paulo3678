@@ -6,7 +6,7 @@
 
 <ul>
     <li>💪 Currently, working at Luma Digital</li>
-    <li>📚 Nowadays, learning about TDD and Unitary Tests</li>
+    <li>📚 Nowadays, learning about C# for new opportunities</li>
     <li>🇧🇷 Brazilian</li>
     <li>🇺🇸 Conversation English </li>
 </ul>
