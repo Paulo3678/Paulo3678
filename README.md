@@ -19,7 +19,7 @@
 
 <div align="center">
     <br>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo3678&layout=compact&langs_count=7&theme=monokai"/>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulo3678&layout=compact&langs_count=7&theme=monokai"/> -->
     <br><br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=paulo3678&theme=monokai&hide_border=false)<br/>
