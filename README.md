@@ -6,7 +6,7 @@
 
 <ul>
     <li>💪 Currently, working at Luma Digital</li>
-    <li>📚 Nowadays, perfecting my skills with Java and React for new opportunities</li>
+    <li>📚 Nowadays, perfecting my skills with Laravel API's and React for new opportunities</li>
     <li>🇧🇷 Brazilian</li>
     <li>🇺🇸 Conversation English </li>
 </ul>
